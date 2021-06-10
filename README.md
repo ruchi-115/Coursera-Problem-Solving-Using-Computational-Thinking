@@ -5,3 +5,4 @@ Learned-
 * To define Computational Thinking components including abstraction, problem identification, decomposition, pattern recognition, algorithms, and evaluating solutions
 * To recognize Computational Thinking concepts in practice through a series of real-world case examples
 * To develop solutions through the application of Computational Thinking concepts to real world problems
+* Final project on disaster plan.
